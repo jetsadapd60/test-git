@@ -1,3 +1,7 @@
 .container {
     background: orangered;
 }
+
+.wrap {
+    padding: 20px;
+}
